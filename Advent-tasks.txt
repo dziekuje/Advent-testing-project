@@ -1,0 +1,63 @@
+==Day 1==
+==Day 2==
+Pomyślałam sobie, że fajnie by było, aby wszystkie wykonane Wyzwania testerskie z kalendarza stworzyło nam portfolio. Dlatego pierwsze zadanie to przygotowanie pełnego zgłoszenia błędu! 
+
+Wskazówki do zadania z dnia drugiego:
+Szerszy materiał na temat zgłoszeń błędu pojawi się w Niezbędniku Uczestnika w poniedziałek, ale już dziś chciałabym abyś zwrócił uwagę na niektóre aspekty:
+
+nazwa, krótka, jednozdaniowa, odzwierciedlająca dokładnie co się stało i gdzie,
+krótki opis – jeśli potrzebny,
+kroki reprodukcji,
+wersja systemu, na której błąd został znaleziony,
+nazwa środowiska, na której błąd został znaleziony,
+czy błąd jest powtarzalny, czy randomowy,
+print screen, jeśli jest pomocny
+i wszystkie informacje, które pomogą w zdiagnozowaniu, znalezieniu lub rozwiązaniu błędu 🙂 
+
+==Day 3==
+Wybierz projekt, na którym będziesz chciał pracować. To może być projekt typu open source, pamiętaj o prawach autorskich 🙂 Na tym projekcie będziesz wykonywał już zadania do końca roku! Natomiast materiał o projektach open-source postaram się zamieścić jutro, może będzie pomocny!
+
+==Day 4==
+Projekt już wybrany to czas teraz przygotować miejsce, gdzie Wasze portfolia będą tworzone. Zadanie na dziś to stworzenie repozytorium publicznego na jednej z platform do obsługi GIT (może być github, bitbucket lub gitlab). Pamiętaj również o stworzeniu pliku readme (plik .gitignore będziemy tworzyć w części automatyzacyjnej, ale jeśli chcesz możesz się już zmierzyć)! Jeśli planujesz zrobić wszystkie zadania z Kalendarza, prześlij mi już dostęp do repo, będę regularnie zaglądać 😉 Dostęp można przesłać na zostan.testerem.cherry@gmail.com !
+
+==Day 5==
+==Day 6==
+==Day 7==
+W poprzednich kartkach wybraliśmy już projekt i przygotowaliśmy repozytorium. Jeśli mieliście jakiś problem ze stworzeniem repozytorium, dawajcie znać w komentarzach – będę pomagać 🙂
+
+Dziś nadszedł czas nad zastanowieniem się co będziemy testowali. Zadanie na dziś: 
+
+porządnie przeklikaj system, który wybrałeś,
+zastanów się jakie są jego główne funkcjonalności? Kto jest głównym użytkownikiem, udziałowcem systemu? Czy system jest podzielony na moduły?
+postaraj się zebrać wszystkie informacje w formie diagramu – może to być mapa myśli, diagram przypadków użycia itd.
+Jeśli pojawią się pytania zachęcam do przesyłania ich na zostan.testerem.cherry@gmail.com albo pozostawienia ich w komentarzach
+
+==Day 8==
+Kochani! W ostatnich dniach wybraliśmy projekt oraz przygotowaliśmy miejsce na portfolio. Dodatkowo dogłębnie zapoznaliśmy się z projektem i przygotowaliśmy wizualną mapę funkcjonalności. Dziś natomiast proponuję zająć się zgłaszaniem błędów. Zadanie nie jest skomplikowane i jest przeniesieniem zadania z dnia pierwszego na nasz wybrany projekt, ale jutro zaplanowane jest dosyć duże zadanie, dlatego zachęcam, aby pochylić się jeszcze nad błędem! W dniu drugim opisałam jak zgłoszenie powinno wyglądać, możecie do tego użyć dowolnego bugtrackera, excela lub zakładki issues w repozytoriach 🙂 Dodatkowe linki: 
+
+http://cherry-it.pl/definicje-bledu/ 
+http://cherry-it.pl/cykl-zycia-bledu/ 
+
+==Day 9==
+Dzisiejsze zadanie jest dosyć złożonym zadaniem i będzie trwało dziś i jutro 🙂 Do tej pory wybraliśmy projekt, zaznajomiliśmy się z nim, zgłosiliśmy błędy i przygotowaliśmy miejsce na portfolio. Teraz nadszedł czas na stworzenie planu testów!
+
+==Day 10==
+Kochani! Dziś kontynuujemy wyzwanie z wczoraj! Dla przypomnienia: nadszedł czas na stworzenie planu testów!
+
+==Day 11==
+Nadszedł czas na przygotowanie przypadków testowych! Zachęcam do wykonania tego zadania, ponieważ przyda nam się ono jeszcze w jednym zadaniu manualnym oraz w części automatyzacyjnej 😉
+
+==Day 12==
+==Day 13==
+==Day 14==
+==Day 15==
+==Day 16==
+==Day 17==
+==Day 18==
+==Day 19==
+==Day 19==
+==Day 20==
+==Day 21==
+==Day 22==
+==Day 23==
+==Day 24==
