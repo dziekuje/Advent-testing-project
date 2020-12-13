@@ -1,4 +1,4 @@
-# Advent-testing-project
+# Advent testing project
 This is my Advent open-source testing project
 
 # Target product
