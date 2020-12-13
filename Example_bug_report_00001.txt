@@ -1,4 +1,4 @@
-ISSUE: MOB-ACC-000001
+ISSUE: MOB-ACC-00001
 TITLE: [iOS][MyOLX > Sales] Thumbnails have wrong size, shrinked
 
 PREREQUISITES: 
