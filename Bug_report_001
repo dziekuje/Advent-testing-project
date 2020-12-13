@@ -1,0 +1,26 @@
+ISSUE: MOB-ACC-000001
+TITLE: [iOS][MyOLX > Sales] Thumbnails have wrong size, shrinked
+
+PREREQUISITES: 
+User have registered account
+User have an active Listing to sell
+
+STEPS TO REPRODUCE:
+1. Log in into OLX account in mobile app
+2. Go to “MyOLX”
+3. Click “Sales”
+
+EXPECTED RESULT: Listing thumbnails have good proportions
+ACTUAL RESULT: The proportions of the thumbnails have unproportional size, they are shrinked
+
+SEVERITY: Low
+PRIORITY: 3
+FREQUENCY: Every Time
+
+ENVIROMENT: Stage
+APP VERSION: 4.8.1, Nov-2020
+OS VERSION: iOS 13.7
+
+LISTING ID: 9988771100§
+SCREENSHOT: [img.png]
+VIDEO RECORDING: [vid.mp4]
