@@ -50,6 +50,17 @@ Nadszedł czas na przygotowanie przypadków testowych! Zachęcam do wykonania te
 ==Day 12==
 ==Day 13==
 ==Day 14==
+Kochani! Podsumowując wyzwanie, do tej pory wykonaliśmy:
+Dzień 1: Przywitanie!
+Dzień 2: Przykładowe zgłoszenie błędu.
+Dzień 3: Wybór projektu.
+Dzień 4: Stworzenie repozytorium GIT.
+Dzień 7: Zapoznanie z projektem, testy eksploracji, diagramy.
+Dzień 8: Zgłaszanie błędów do wybranego projektu.
+Dzień 9: Plan testów.
+Dzień 10: Plan testów.
+Dzień 11: Przypadki testowe.
+Zadanie na dziś to: scenariusze testowe! Do wybranego przez siebie projektu stwórz scenariusze testowe.
 ==Day 15==
 ==Day 16==
 ==Day 17==
